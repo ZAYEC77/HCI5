@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\TestBrowser\TestApp\obj\Debug\TestApp.exe
+C:\Users\admin\Desktop\TestBrowser\TestApp\obj\Debug\TestApp.pdb
+C:\Users\admin\Desktop\TestBrowser\TestApp\bin\Debug\TestApp.exe
+C:\Users\admin\Desktop\TestBrowser\TestApp\bin\Debug\TestApp.pdb
+C:\Users\admin\Desktop\TestBrowser\TestApp\bin\Debug\FileBrowser.dll
+C:\Users\admin\Desktop\TestBrowser\TestApp\bin\Debug\FileBrowser.pdb
+C:\Users\admin\Desktop\TestBrowser\TestApp\obj\Debug\ReExplorer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TestBrowser\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\admin\Desktop\TestBrowser\TestApp\obj\Debug\ReExplorer.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\TestBrowser\TestApp\obj\Debug\TestApp.MainForm.resources

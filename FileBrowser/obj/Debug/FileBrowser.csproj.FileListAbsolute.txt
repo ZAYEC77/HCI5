@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\bin\Debug\FileBrowser.dll
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\obj\Debug\FileBrowser.dll
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Users\admin\Desktop\TestBrowser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
